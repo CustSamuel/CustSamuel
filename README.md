@@ -1,16 +1,50 @@
-## Hi there 👋
+# Olá, eu sou o Samuel Custódio! 👋
 
-<!--
-**CustSamuel/CustSamuel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://shields.io" alt="Foco: Engenharia de Dados">
+  <img src="https://shields.io" alt="Status">
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Sobre Mim
+- 🎓 Estudante de Tecnologia na **FATEC**, onde desenvolvo uma base sólida em desenvolvimento de software e modelagem de dados.
+- 🎯 Objetivo de Carreira: Atuar como **Engenheiro de Dados**, projetando pipelines eficientes e escaláveis.
+- 🧠 Estudos Autônomos: Focado diariamente no ecossistema de **Data Engineering e Computação em Nuvem**.
+
+---
+
+### 🛠️ Minhas Tecnologias & Ferramentas
+
+#### 📈 Engenharia de Dados & Big Data (Foco Atual / Autodidata)
+<p align="left">
+  <img src="https://shields.io" alt="Python" />
+  <img src="https://shields.io" alt="Apache Spark" />
+</p>
+
+#### 🗄️ Bancos de Dados (Relacionais e NoSQL)
+<p align="left">
+  <img src="https://shields.io" alt="MySQL" />
+  <img src="https://shields.io" alt="MongoDB" />
+</p>
+
+#### 💻 Desenvolvimento Backend & Frontend (Base FATEC)
+<p align="left">
+  <img src="https://shields.io" alt="C#" />
+  <img src="https://shields.io" alt="PHP" />
+  <img src="https://shields.io" alt="JavaScript" />
+  <img src="https://shields.io" alt="HTML5" />
+  <img src="https://shields.io" alt="CSS3" />
+</p>
+
+---
+
+### 🤝 Vamos nos conectar e trocar ideias sobre Dados?
+<p align="left">
+  <a href="https://www.linkedin.com/in/samuel-cust%C3%B3dio-dos-santos-614879246/" target="_blank">
+    <img src="https://shields.io" alt="LinkedIn" />
+  </a>
+  <a href="mailto:samuelcustodiosantos2020@gmail.com">
+    <img src="https://shields.io" alt="Email" />
+  </a>
+</p>
