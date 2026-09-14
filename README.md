@@ -16,24 +16,12 @@
 
 ### 🛠️ Minhas Tecnologias & Ferramentas
 
-#### 📈 Engenharia de Dados & Big Data (Foco Atual / Autodidata)
-<p align="left">
-  <img src="https://jsdelivr.net" alt="Python" width="40" height="40" />&nbsp;&nbsp;
-  <img src="https://jsdelivr.net" alt="Apache" width="40" height="40" />&nbsp;&nbsp;
-  <img src="https://jsdelivr.net" alt="Spark" width="40" height="40" />
-</p>
+| Categoria | Tecnologias Principais |
+| :--- | :--- |
+| 📈 **Engenharia de Dados** | `Python` 🐍 &nbsp;&bull;&nbsp; `Apache Spark` ✨ |
+| 🗄️ **Bancos de Dados** | `MySQL` 🐬 &nbsp;&bull;&nbsp; `MongoDB` 🍃 |
+| 💻 **Backend (FATEC)** | `C#` 🚀 &nbsp;&bull;&nbsp; `PHP` 🐘 |
+| 🎨 **Frontend (FATEC)** | `HTML5` &nbsp;&bull;&nbsp; `CSS3` &nbsp;&bull;&nbsp; `JavaScript` 💛 |
 
-#### 🗄️ Bancos de Dados (Relacionais e NoSQL)
-<p align="left">
-  <img src="https://jsdelivr.net" alt="MySQL" width="40" height="40" />&nbsp;&nbsp;
-  <img src="https://jsdelivr.net" alt="MongoDB" width="40" height="40" />
-</p>
-
-#### 💻 Desenvolvimento Backend & Frontend (Base FATEC)
-<p align="left">
-  <img src="https://jsdelivr.net" alt="C#" width="40" height="40" />&nbsp;&nbsp;
-  <img src="https://jsdelivr.net" alt="PHP" width="40" height="40" />&nbsp;&nbsp;
-  <img src="https://jsdelivr.net" alt="JavaScript" width="40" height="40" />&nbsp;&nbsp;
-  <img src="https://jsdelivr.net" alt="HTML5" width="40" height="40" />&nbsp;&nbsp;
-  <img src="https://jsdelivr.net" alt="CSS3" width="40" height="40" />
-</p>
+---
+****
