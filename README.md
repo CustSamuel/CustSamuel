@@ -18,22 +18,22 @@
 
 #### 📈 Engenharia de Dados & Big Data (Foco Atual / Autodidata)
 <p align="left">
-  <img src="https://shields.io" alt="Python" />
-  <img src="https://shields.io" alt="Apache Spark" />
+  <img src="https://jsdelivr.net" alt="Python" width="40" height="40" />&nbsp;&nbsp;
+  <img src="https://jsdelivr.net" alt="Apache" width="40" height="40" />&nbsp;&nbsp;
+  <img src="https://jsdelivr.net" alt="Spark" width="40" height="40" />
 </p>
 
 #### 🗄️ Bancos de Dados (Relacionais e NoSQL)
 <p align="left">
-  <img src="https://shields.io" alt="MySQL" />
-  <img src="https://shields.io" alt="MongoDB" />
+  <img src="https://jsdelivr.net" alt="MySQL" width="40" height="40" />&nbsp;&nbsp;
+  <img src="https://jsdelivr.net" alt="MongoDB" width="40" height="40" />
 </p>
 
 #### 💻 Desenvolvimento Backend & Frontend (Base FATEC)
 <p align="left">
-  <img src="https://shields.io" alt="C#" />
-  <img src="https://shields.io" alt="PHP" />
-  <img src="https://shields.io" alt="JavaScript" />
-  <img src="https://shields.io" alt="HTML5" />
-  <img src="https://shields.io" alt="CSS3" />
+  <img src="https://jsdelivr.net" alt="C#" width="40" height="40" />&nbsp;&nbsp;
+  <img src="https://jsdelivr.net" alt="PHP" width="40" height="40" />&nbsp;&nbsp;
+  <img src="https://jsdelivr.net" alt="JavaScript" width="40" height="40" />&nbsp;&nbsp;
+  <img src="https://jsdelivr.net" alt="HTML5" width="40" height="40" />&nbsp;&nbsp;
+  <img src="https://jsdelivr.net" alt="CSS3" width="40" height="40" />
 </p>
-
