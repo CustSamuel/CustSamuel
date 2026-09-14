@@ -30,6 +30,7 @@
 
 ### 🤝 Vamos nos conectar e trocar ideias sobre Dados?
 <p align="left">
-  🌐 **LinkedIn:** [Clique aqui para acessar meu perfil](https://www.linkedin.com/in/samuel-cust%C3%B3dio-dos-santos-614879246/)  
-  📧 **E-mail:** [seu.email@provedor.com](samuelcustodiosantos2020@gmail.com)
+  🌐 **LinkedIn:** (https://www.linkedin.com/in/samuel-cust%C3%B3dio-dos-santos-614879246/)  
+  
+  📧 **E-mail:** samuelcustodiosantos2020@gmail.com
 </p>
