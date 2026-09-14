@@ -1,10 +1,6 @@
 # Olá, meu nome é Samuel Custódio! 👋
 
-<p align="center">
-  <img src="https://shields.io" alt="Foco: Engenharia de Dados">
-  &nbsp;&nbsp;
-  <img src="https://shields.io" alt="Status">
-</p>
+**🎯 Foco Atual:** `Engenharia de Dados` | **🚀 Status:** `Estudando & Praticando`
 
 ---
 
