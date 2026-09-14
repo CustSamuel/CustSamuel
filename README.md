@@ -4,11 +4,6 @@
 
 ---
 
-| 🎓 **Educação Superior** | Tecnologia em Análise e Desenvolvimento de Sistemas — **FATEC JAHU** |
-| 🎒 **Educação Técnica**  | Técnico em Desenvolvimento de Sistemas — **ETEC JAHU** |
-
----
-
 ### 🚀 Sobre Mim
 - 💼 Atualmente sou **Estagiário PROATI** na *EE Professor Antonio Terezio Mendes Peixoto* em Jahu/SP.
 - 🎓 Estudante de Tecnologia na **FATEC**, onde construo minha base sólida em desenvolvimento de software e modelagem de dados.
