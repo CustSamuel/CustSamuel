@@ -37,14 +37,3 @@
   <img src="https://shields.io" alt="CSS3" />
 </p>
 
----
-
-### 🤝 Vamos nos conectar e trocar ideias sobre Dados?
-<p align="left">
-  <a href="https://www.linkedin.com/in/samuel-cust%C3%B3dio-dos-santos-614879246/" target="_blank">
-    <img src="https://shields.io" alt="LinkedIn" />
-  </a>
-  <a href="mailto:samuelcustodiosantos2020@gmail.com">
-    <img src="https://shields.io" alt="Email" />
-  </a>
-</p>
